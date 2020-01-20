@@ -1,6 +1,6 @@
 # condorcet
 
-[![Build](https://travis-ci.org/turizsolt/condorcet.svg?branch=master)](https://travis-ci.org/turizsolt/condorcet)
+[![Build](https://travis-ci.com/turizsolt/condorcet.svg?branch=master)](https://travis-ci.com/turizsolt/condorcet)
 [![codecov.io](https://codecov.io/github/turizsolt/condorcet/coverage.svg?branch=master)](https://codecov.io/github/turizsolt/condorcet?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
